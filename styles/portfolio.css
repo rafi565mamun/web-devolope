@@ -186,7 +186,6 @@ footer form input[type="textarea"] {
 }
 
 
-
 footer form input[type="text"] {
     height: 64px;
     background-color: white;
@@ -196,4 +195,7 @@ footer form input[type="text"] {
     padding: 10px 20px;
     margin-bottom: 24px;
     border: none;
+}
+footer form input [type="submit"]{
+    text-align: center;
 }
